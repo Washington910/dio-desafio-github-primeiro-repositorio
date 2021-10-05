@@ -7,6 +7,8 @@ Git é uma ferramenta de controle de versão, desenvolvida por nada menos que Li
 ### :computer: O que é um controle de versão? 
 é um sistema que armazena as alterações realizadas em um arquivo ou vários arquivos durante o tempo, de modo que você consiga resgatar versões específicas.
 
+<img src="https://user-images.githubusercontent.com/77301626/136073245-97c66d95-c22c-4306-9b65-5742cbadaeae.png">
+
 Obs: Caso Você não tenha instalado!
 Site Oficial: https://git-scm.com/downloads
 
