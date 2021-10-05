@@ -102,6 +102,6 @@ Colocando o -u junto com o push ele faz o set-upstream que seria fazer a referê
   
 <img src="https://user-images.githubusercontent.com/77301626/136080491-a72c8b76-8378-49b0-aa2f-10f6a3415686.png">
   
-Depois de aperte F5 na pagina do repositorio e Vualá!
+* Depois de aperte F5 na pagina do repositorio e Vualá!
   
 <img src="https://user-images.githubusercontent.com/77301626/136080636-365ffe79-6d2f-4416-a9dd-8c5f93f2d8b2.png">
