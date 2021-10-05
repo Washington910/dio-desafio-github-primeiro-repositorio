@@ -21,4 +21,34 @@ Site Oficial: https://git-scm.com/downloads
 
 * No Repository name, você vai colocar o nome do repositório. Você pode adicionar uma descrição se quiser. E inicializar com o arquivo README.md que é o arquivo onde você pode colocar as instruções de como instalar seu projeto.
 
+<img src="https://user-images.githubusercontent.com/77301626/136074064-89126c3a-d8ad-41d0-9eeb-197623f91d71.png">
+
+* Logo após a criação do repositório é possível ver alguns comandos que vão ser utilizados no decorrer do post.
+
+# Configurações iniciais do git
+
+Para utilizar o git e enviar seus arquivos para o github, é preciso configurar em sua máquina seu usuário e email do github.
+
+$ git config --global user.name "Seu Nome"
+
+$ git config --global user.email Seu Email
+
+*Se quiser Conferir digita: $ git config --list
+
+---
+
+
+# Enviando Projeto
+
+* Entre na pasta do projeto.
+$ cd project/
+
+* inicialize o git
+$ git init
+
+Com esse comando, o git vai criar uma pasta oculta com o nome ./git para ter a estrutura que vai ser utilizada para controlar seus arquivos, salvar as branchs, salvar o histórico, etc.
+* é possível saber o status dos arquivos na máquina. Vamos usar o git status.
+
 <img src="">
+
+Todos os arquivos estão em vermelho, isso quer dizer que nenhum arquivo está sendo monitorado. Para monitorar arquivos basta digitar
