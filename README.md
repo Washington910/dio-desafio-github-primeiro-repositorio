@@ -13,8 +13,12 @@ Obs: Caso Você não tenha instalado!
 Site Oficial: https://git-scm.com/downloads
 
 ----
-Nesse projeto vamos utilizar o github que é um serviço web que tem várias funcionalidades extras para o git. É como se fosse uma rede social de desenvolvedores, onde você pode ver o código de outros desenvolvedores, clonar projetos na sua máquina, contribuir com a comunidade com os projetos open-source. Então se você não se cadastrou ainda, não perca tempo e faça o cadastro.
+* Nesse projeto vamos utilizar o github que é um serviço web que tem várias funcionalidades extras para o git. É como se fosse uma rede social de desenvolvedores, onde você pode ver o código de outros desenvolvedores, clonar projetos na sua máquina, contribuir com a comunidade com os projetos open-source. Então se você não se cadastrou ainda, não perca tempo e faça o cadastro.
 
-Depois de feito o cadastro vamos criar o nosso primeiro repositório que é local onde vai ser armazenado o código do nosso projeto, basta ir em Repositories no seu perfil do github e clicar em New.
+* Depois de feito o cadastro vamos criar o nosso primeiro repositório que é local onde vai ser armazenado o código do nosso projeto, basta ir em Repositories no seu perfil do github e clicar em New.
 
 <img src="https://user-images.githubusercontent.com/77301626/136073566-eb82ef83-50b0-4ae4-b2eb-c804061f9f5c.png">
+
+* No Repository name, você vai colocar o nome do repositório. Você pode adicionar uma descrição se quiser. E inicializar com o arquivo README.md que é o arquivo onde você pode colocar as instruções de como instalar seu projeto.
+
+<img src="">
