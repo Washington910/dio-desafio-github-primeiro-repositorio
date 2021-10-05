@@ -13,7 +13,7 @@ Obs: Caso Você não tenha instalado!
 Site Oficial: https://git-scm.com/downloads
 
 ----
-* Nesse projeto vamos utilizar o github que é um serviço web que tem várias funcionalidades extras para o git. É como se fosse uma rede social de desenvolvedores, onde você pode ver o código de outros desenvolvedores, clonar projetos na sua máquina, contribuir com a comunidade com os projetos open-source. Então se você não se cadastrou ainda, não perca tempo e faça o cadastro.
+* Nesse projeto vamos utilizar o github que é um serviço web que tem várias funcionalidades extras para o git. É como se fosse uma rede social de desenvolvedores, onde você pode ver o código de outros desenvolvedores, clonar projetos na sua máquina, contribuir com a comunidade com os projetos open-source.
 
 * Depois de feito o cadastro vamos criar o nosso primeiro repositório que é local onde vai ser armazenado o código do nosso projeto, basta ir em Repositories no seu perfil do github e clicar em New.
 
@@ -33,7 +33,7 @@ $ git config --global user.name "Seu Nome"
 
 $ git config --global user.email Seu Email
 
-*Se quiser Conferir digita: $ git config --list
+* Se quiser Conferir digita: $ git config --list
 
 ---
 
